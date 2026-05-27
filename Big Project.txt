@@ -1,0 +1,123 @@
+BIG PROJECT:
+“Smart Restaurant and Login System”
+🎯 What you will practice:
+✅ Topics covered
+
+✔️ Syntax
+✔️ Variables
+✔️ Data types
+✔️ Numbers
+✔️ Casting
+✔️ Strings
+✔️ Boolean values
+✔️ Operators
+✔️ Input()
+✔️ Basic If / Else
+✔️ Calculations
+✔️ Formatting
+
+📋 Project idea
+
+User:
+
+Login to the system (login)
+Sees menu
+Orders products
+The program calculates total
+Checks discount
+Checks delivery
+Shows final receipt
+🧠 REQUIREMENTS
+🔐 PART 1 — LOGIN SYSTEM
+Create:
+saved_username
+saved_password
+Use:
+login()
+
+for:
+
+username
+password
+If login is incorrect:
+Access denied!
+If the login is successful:
+Successful login!
+🍔 PART 2 — RESTAURANT MENU
+
+Create at least:
+
+3 products
+
+Each product should have:
+
+name
+price
+quantity
+🧮 PART 3 — CALCULATIONS
+
+Calculate:
+
+total1
+total2
+total3
+total_total
+🎁 PART 4 ​​— DISCOUNT SYSTEM
+
+👉 If the total is over 50€:
+
+discount = 10
+
+otherwise:
+
+discount = 0
+🚚 PART 5 — DELIVERY
+
+Create:
+
+is_delivery = True
+delivery_price = 5
+🧠 If there is delivery:
+
+add delivery to the final amount.
+
+(for now you can add it directly)
+
+🖥️ PART 6 — FINAL RESULT
+
+The program should display something like this:
+
+--- FOOD PALACE ---
+
+Client: Boris
+
+Pizza x2 = €14.40
+Pasta x1 = €3.25
+Car x3 = €3.60
+
+Subtotal: €21.25
+Discount: -€10.00
+Shipping: €5.00
+
+-------------------
+Final total: €16.25
+
+Entered: True
+Order successful!
+🔥 BONUS IDEAS
+
+If you want a challenge:
+
+✅ use .upper()
+✅ use .lower()
+✅ use len()
+✅ make an alias with slicing
+✅ use +=
+
+💡 The important thing
+
+We don't aim for perfection.
+Choose to:
+✔️ combine knowledge
+✔️ think logically
+✔️ write more code
